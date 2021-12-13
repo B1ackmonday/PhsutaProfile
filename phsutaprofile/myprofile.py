@@ -22,18 +22,11 @@ class Profile:
 	  `      "      `
 			'''
 		self.art2 = '''
-
-      __    __    )
-      \\\  ///   (
-   _ __\\\///_____ )
-  [_[___>><<______#
-       ///\\\
-      ///  \\\
-  
+           ____()()
+          /      @@
+	`~~~~~\_;m__m._>o
 		'''
 		
-		
-
 	def show_email(self):
 		if self.company != '':
 			print('{}@{}.com'.format(self.name.lower(),self.company))
@@ -43,7 +36,7 @@ class Profile:
 	def show_myart(self):
 		print(self.art)	
 
-	def show_nosmoke(self):
+	def show_mice(self):
 		print(self.art2)		
 
 
@@ -65,6 +58,6 @@ if __name__=='__main__':
 	my.show_email()
 	my.show_myart()
 	my.show_hobby()
-	my.show_nosmoke()
+	my.show_mice()
 	# help(my)
 	
