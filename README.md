@@ -12,7 +12,7 @@ PyPi: https://pypi.org/project/phsutaprofile/
 pip install phsutaprofile
 ```
 
-### วิธีใช้งานแพ็คเกจนี้
+### วิธีใช้งานแพ็คเพจนี้
 
 - เปิด IDLE ขึ้นมาแล้วพิมพ์...
 
@@ -24,7 +24,7 @@ print(my.name)
 my.show_email()
 my.show_myart()
 my.show_hobby()
-my.show_nosmoke()
+my.show_mice()
 ```
 
 Developed By B1ackmonday
