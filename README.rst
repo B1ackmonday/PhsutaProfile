@@ -29,5 +29,6 @@ user อื่นได้
    my.show_email()
    my.show_myart()
    my.show_hobby()
+   my.show_mice()
 
 Developed By B1ackmonday
