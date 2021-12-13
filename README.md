@@ -24,6 +24,7 @@ print(my.name)
 my.show_email()
 my.show_myart()
 my.show_hobby()
+my.show_nosmoke()
 ```
 
 Developed By B1ackmonday
