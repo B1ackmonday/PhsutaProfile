@@ -30,5 +30,6 @@ user อื่นได้
    my.show_myart()
    my.show_hobby()
    my.show_mice()
+   my.show_dolls()
 
 Developed By B1ackmonday
