@@ -9,6 +9,8 @@ class Profile:
 	my.show_email()
 	my.show_myart()
 	my.show_hobby()
+	my.show_mice()
+	my.show_dolls()
 	
 	'''
 	def __init__(self,name):
@@ -25,7 +27,15 @@ class Profile:
            ____()()
           /      @@
 	`~~~~~\_;m__m._>o
-		'''
+		    '''
+		self.art3 = '''
+       _    _    _    _    _ 
+    __( )__( )__( )__( )__( )__
+   '--. .--. .--. .--. .--. .--'
+     / _ \/ _ \/ _ \/ _ \/ _ \\
+     (/ \)(/ \)(/ \)(/ \)(/ \)
+		
+			'''
 		
 	def show_email(self):
 		if self.company != '':
@@ -37,7 +47,10 @@ class Profile:
 		print(self.art)	
 
 	def show_mice(self):
-		print(self.art2)		
+		print(self.art2)
+
+	def show_dolls(self):
+		print(self.art3)
 
 
 	def show_hobby(self):
@@ -59,5 +72,6 @@ if __name__=='__main__':
 	my.show_myart()
 	my.show_hobby()
 	my.show_mice()
+	my.show_dolls()
 	# help(my)
 	
