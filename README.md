@@ -12,7 +12,7 @@ PyPi: https://pypi.org/project/phsutaprofile/
 pip install phsutaprofile
 ```
 
-### วิธีใช้งานแพ็คเพจนี้
+### วิธีใช้งานแพ็คเกจนี้
 
 - เปิด IDLE ขึ้นมาแล้วพิมพ์...
 
